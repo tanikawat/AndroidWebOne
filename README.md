@@ -13,3 +13,8 @@
 - tbl_ponto: id_user, hora, situacao, lat, lng
 - tbl_logs: id_user, msg, hora, lat, lng
 - tbl_suport: id_user, msg, hora, lat, lng, situacao
+
+#Steps
+ - Sincronizar com a Web as tabelas tbl_user e tbl_produtos
+ - Permitir login
+ - Armazenar posições e ir enviando de tempo em tempo
